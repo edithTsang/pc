@@ -1,0 +1,9 @@
+/*公共通用样式*/
+
+.frame{
+    width: 100%;
+    display: flex;
+}
+.pagination-container{
+  margin-top: 20px;
+}
